@@ -32,10 +32,10 @@ for row in piece:
 time=0
 while 2==2:
     if time%2==0:
-        player="⚪"
+        player="X"
         users_name=users_name1
     else:
-        player="⚫"
+        player="O"
         users_name=users_name2
     while 3==3:
         c=0
